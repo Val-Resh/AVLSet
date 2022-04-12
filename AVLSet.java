@@ -7,8 +7,8 @@ import java.util.Deque;
  * @author Val Resh
  */
 public class AVLSet<E extends Comparable<E>> {
-    Node<E> root;
-    int numberOfElements;
+    private Node<E> root;
+    private int numberOfElements;
 
     /**
      * Node data structure that holds each node of the tree.
