@@ -2,7 +2,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**
- * Set of unique values. Stores only non-repeated elements.
+ * Set of unique values. Stores only non-repeated elements. Implemented as an AVL tree.
  * @param <E> type of element
  * @author Val Resh
  */
